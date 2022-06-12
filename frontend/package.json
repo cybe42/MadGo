@@ -1,6 +1,6 @@
 {
-  "name": "vite-template-solid",
-  "version": "0.0.0",
+  "name": "vite-template-solid-madgo",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "start": "vite",
@@ -10,11 +10,11 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^4.6.4",
-    "vite": "^2.9.9",
-    "vite-plugin-solid": "^2.2.6"
+    "typescript": "*",
+    "vite": "*",
+    "vite-plugin-solid": "*"
   },
   "dependencies": {
-    "solid-js": "^1.4.2"
+    "solid-js": "*"
   }
 }
